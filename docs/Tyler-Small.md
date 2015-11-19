@@ -2,5 +2,5 @@
 
 **Name:** Tyler Small
 **From:** USA
-**Fav Food:** Dessert
+**Fav Food:** Desserts
 **Hobby:** Git
