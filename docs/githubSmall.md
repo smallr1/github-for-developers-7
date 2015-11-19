@@ -1,3 +1,0 @@
-### Intro
-
-**Name:** Tyler Small
